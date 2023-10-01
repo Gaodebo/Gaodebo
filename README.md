@@ -1,5 +1,10 @@
 ### Hi there 👋
 好吧，暂时我还没什么好介绍的，希望以后能多做一些开源的项目😂
+这里是我的技术分享公众号
+![二维码.jpg](https://obs-knowledge.oss-cn-beijing.aliyuncs.com/img/%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+这里是我的[CSDN博客](https://blog.csdn.net/weixin_50799082)
+
+
 <!--
 **Gaodebo/Gaodebo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
